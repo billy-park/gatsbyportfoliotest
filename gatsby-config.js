@@ -27,8 +27,8 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Web Warrior',
+    title: 'Wizzy\'s Web Design',
     description: 'web dev portfolio',
-    copyright: 'This website is copyright 2021 Web Warrior'
+    copyright: 'This website is copyright 2021 Wizzy'
   }
 }
