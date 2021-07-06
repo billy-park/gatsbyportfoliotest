@@ -47,6 +47,6 @@ query ProjectsPage {
       }
       id
     }
-  }
+  },
 }
 `

@@ -11,7 +11,7 @@ export default function Home() {
         <div>
           <h2>Design</h2>
           <h3>Develop & Deploy</h3>
-          <p>nice</p>
+          <p>making websites all day</p>
           <Link className={btn} to="/projects">My Portfolio Projects</Link>
         </div>
         <StaticImage src="../images/banner.png" alt="Banner" placeholder="blurred"/>
